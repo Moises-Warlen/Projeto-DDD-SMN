@@ -1,0 +1,1 @@
+C:\Users\SMN\Desktop\ProjetoModeloDDD_SMN\projetoSMN_ModeloDDD\projetoSMN_ModeloDDD.Infra.Dados\obj\Debug\projetoSMN_ModeloDDD.Infra.Dados.csprojResolveAssemblyReference.cache
